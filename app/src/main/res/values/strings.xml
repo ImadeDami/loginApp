@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="pref_file">com.zeathon.preference_file</string>
+    <string name="pref_login_status">com.zeathon.preference_login_status</string>
+    <string name="pref_user_name">com.zeathon.preference_user_name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
